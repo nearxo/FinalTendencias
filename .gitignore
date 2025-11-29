@@ -1,0 +1,11 @@
+@"
+env/
+env/*
+chrome-win64/
+.env
+*.pyc
+__pycache__/
+*.csv
+*.jsonl
+*.sqlite
+"@ | Set-Content -Path .gitignore -Encoding UTF8

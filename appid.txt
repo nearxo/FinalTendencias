@@ -1,0 +1,2178 @@
+"appid": 1000000,
+    "game": " ASCENXION ",
+    
+"appid": 1000010,
+    "game": " Crown Trick ",
+    
+"appid": 1000030,
+    "game": " Cook, Serve, Delicious! 3?! ",
+    
+"appid": 1000050,
+    "game": " 我的一个多重人格朋友 ",
+    
+"appid": 1000080,
+    "game": " Zengeon ",
+    
+"appid": 1000100,
+    "game": " 干支セトラ　陽ノ巻 ",
+    
+"appid": 1000130,
+    "game": " Cube Defender ",
+    
+"appid": 1000280,
+    "game": " Tower of Origin 2-Worm's Nest ",
+    
+"appid": 1000350,
+    "game": " Boarding College ",
+    
+"appid": 1000360,
+    "game": " Hellish Quart ",
+    
+"appid": 1000380,
+    "game": " Rogue Reaper ",
+    
+"appid": 1000410,
+    "game": " WRATH: Aeon of Ruin ",
+    
+"appid": 1000440,
+    "game": " 东方雪莲华 ～ Abyss Soul Lotus. ",
+    
+"appid": 1000470,
+    "game": " Drawngeon: Dungeons of Ink and Paper ",
+    
+"appid": 1000500,
+    "game": " The Undisputables : Online Multiplayer ",
+    
+"appid": 1000540,
+    "game": " Tactical Control ",
+    
+"appid": 1000550,
+    "game": " Love Hentai: Endgame ",
+"appid": 1000640,
+    "game": " Clam Man ",
+    
+"appid": 1000700,
+    "game": " Insomnis ",
+    
+"appid": 1000750,
+    "game": " Rotund Rebound ",
+    
+"appid": 1000760,
+    "game": " Foregone ",
+    
+"appid": 1000770,
+    "game": " Urban Tale ",
+    
+"appid": 1000790,
+    "game": " Flex Apocalypse Racing ",
+    
+"appid": 1000800,
+    "game": " Beetle Elf ",
+    
+"appid": 1000830,
+    "game": " Gachi Finder 3000 ",
+    
+"appid": 1000870,
+    "game": " On Target VR Darts ",
+    
+"appid": 1000880,
+    "game": " REPTOMOM ",
+    
+"Keenersaurus Rex",
+      "Game Not Over",
+      
+"appid": 1000900,
+    "game": " Zero spring episode 3 ",
+    
+"appid": 1001040,
+    "game": " Glorious Companions ",
+    
+"appid": 1001070,
+    "game": " Koi ",
+    
+"appid": 1001100,
+    "game": " Kooring VR Wonderland : Mecadino's Attack ",
+    
+"appid": 1001140,
+    "game": " Angry Birds VR: Isle of Pigs ",
+    
+"appid": 1001170,
+    "game": " Master Of Secrets: Dark Europe ",
+    
+"appid": 1001200,
+    "game": " RowRow ",
+    
+"appid": 1001220,
+    "game": " BoneCraft ",
+    
+"appid": 1001230,
+    "game": " Partial Control ",
+    
+"appid": 1001270,
+    "game": " Kebab Chefs! - Restaurant Simulator ",
+    
+"appid": 1001340,
+    "game": " Escape from police ",
+    
+"appid": 1001450,
+    "game": " The Town ",
+    
+"appid": 1001490,
+    "game": " Tower Behind the Moon ",
+    
+"appid": 1001500,
+    "game": " Chronicon Apocalyptica ",
+    
+"appid": 1001590,
+    "game": " Grab Lab ",
+    
+"appid": 1001600,
+    "game": " Diggerman ",
+    
+"appid": 1001640,
+    "game": " Where the Bees Make Honey ",
+    
+"appid": 1001730,
+    "game": " Twisting Mower ",
+    
+"appid": 1001740,
+    "game": " Diamonds ",
+    
+"appid": 1001760,
+    "game": " Xtreme League ",
+    
+"appid": 1001800,
+    "game": " KUNAI ",
+    
+"appid": 1001810,
+    "game": " Virus Expansion ",
+    
+"appid": 1001880,
+    "game": " aMAZE Valentine ",
+    
+"appid": 1001930,
+    "game": " Tau Cubis ",
+    
+"appid": 1001970,
+    "game": " Rhythmy ",
+    
+"appid": 1001980,
+    "game": " Archeo: Shinar ",
+    
+"appid": 1002000,
+    "game": " Spitlings ",
+    
+"appid": 1002020,
+    "game": " Interpoint ",
+    
+"appid": 1002030,
+    "game": " Hentai beautiful girls ",
+    
+"appid": 1002100,
+    "game": " Negligee: Love Stories ",
+    
+"appid": 1002200,
+    "game": " Vasilis ",
+    
+"appid": 1002210,
+    "game": " 孤岛(Isolated Island) ",
+    
+"appid": 1002260,
+    "game": " Ruffy and the Riverside ",
+    
+"appid": 1002270,
+    "game": " PiiSim ",
+    
+"appid": 1002300,
+    "game": " Fear & Hunger ",
+    
+"appid": 1002360,
+    "game": " BUGDAS ",
+    
+"appid": 1002410,
+    "game": " The Five Cores Remastered ",
+    
+"appid": 1002420,
+    "game": " Agartha ",
+    
+"appid": 1002430,
+    "game": " Victory Road ",
+    
+"appid": 1002440,
+    "game": " Fantastic Creatures ",
+    
+"appid": 1002480,
+    "game": " Condors Vs Ocelots ",
+    
+"appid": 1002490,
+    "game": " Roulette Simulator 2 ",
+    
+"appid": 1002540,
+    "game": " HA/CK ",
+    
+"appid": 1002560,
+    "game": " Tiny Snow ",
+    
+"appid": 1002580,
+    "game": " Cell Defender ",
+    
+"appid": 1002590,
+    "game": " N-GON ",
+    
+"appid": 1002610,
+    "game": " Snowed IN ",
+    
+"appid": 1002630,
+    "game": " AWAKE - Definitive Edition ",
+    
+"appid": 1002650,
+    "game": " Puttin' Around ",
+    
+"appid": 1002660,
+    "game": " MORGENSHTERN: easygame ",
+    "achievements": 
+"appid": 1002690,
+    "game": " Hand of Horzasha ",
+    
+"appid": 1002800,
+    "game": " Tsumi ",
+    
+"appid": 1002910,
+    "game": " Twisty Puzzle Simulator ",
+    
+"appid": 1002930,
+    "game": " 坦克大战：共和国之辉 ",
+    
+"appid": 1002950,
+    "game": " Gravity Panda ",
+    
+"appid": 1002960,
+    "game": " Hentai NetWalk ",
+    
+"appid": 1003020,
+    "game": " Alluna and Brie Re-Tentacled ",
+    
+ing Rogue",
+      "Groovy Gamer",
+      "Save A
+"appid": 1003090,
+    "game": " Through The Darkest of Times ",
+    
+"appid": 1003120,
+    "game": " HitchHiker ",
+    
+"appid": 1003190,
+    "game": " Alpacapaca Double Dash ",
+    
+"appid": 1003230,
+    "game": " AIRA VR ",
+    
+,
+      "The perfect game",
+      "Heavy Weigh
+"appid": 1003320,
+    "game": " Nya Nya Nya Girls 2 (ʻʻʻ)_(=^･ω･^=)_(ʻʻʻ) ",
+    
+chievements": [
+      "GameOn",
+      "GameOut",
+      
+"appid": 1003450,
+    "game": " Terrorarium ",
+    
+"appid": 1003480,
+    "game": " Fireboy & Watergirl: Elements ",
+    
+"appid": 1003520,
+    "game": " Hentai Crush ",
+    
+"appid": 1003530,
+    "game": " 学院英雄梦 HeroDreamOfSchool ",
+    
+"appid": 1003560,
+    "game": " Crumbling World ",
+    
+"appid": 1003590,
+    "game": " Tetris® Effect: Connected ",
+    
+"appid": 1003600,
+    "game": " NashBored ",
+    
+"appid": 1003650,
+    "game": " Abandonment ",
+    
+"appid": 1003700,
+    "game": " Sky Labyrinth ",
+    
+"appid": 1003730,
+    "game": " Soko Loco Deluxe ",
+    
+"appid": 1003750,
+    "game": " 她2 : 我还想再见到你   Her2 : I Want To See You Again ",
+    
+"appid": 1003830,
+    "game": " Cold Silence ",
+    
+"appid": 1003880,
+    "game": " Sky Of Destruction ",
+    
+"appid": 1003890,
+    "game": " Blacksad: Under the Skin ",
+    
+"appid": 1004000,
+    "game": " Card Brawl ",
+    
+"Beat the paladin",
+      "Game over!",
+      
+"appid": 1004030,
+    "game": " Rhythm Overdrive ",
+    
+"appid": 1004040,
+    "game": " Paizuri Fantasies Kinetic Novel ",
+    
+"appid": 1004050,
+    "game": " time of the zombies ",
+    
+"appid": 1004150,
+    "game": " Madorica Real Estate ",
+    
+rcism of The Eye of Providence",
+      "The End Game",
+      "The Exe
+"appid": 1004170,
+    "game": " The Truck Game ",
+    "achievements": 
+"appid": 1004200,
+    "game": " Biathlon Battle VR ",
+    
+"appid": 1004210,
+    "game": " Pandamonia ",
+    
+": [
+      "Launch the game",
+      "National C
+"appid": 1004230,
+    "game": " The Revenge of Johnny Bonasera: Episode 3 ",
+    
+"appid": 1004240,
+    "game": " Hentai Girl Karen ",
+    
+"appid": 1004310,
+    "game": " Maze 3D ",
+    
+"appid": 1004330,
+    "game": " My Exercise ",
+    
+"appid": 1004370,
+    "game": " Paper Cut Mansion ",
+    
+"appid": 1004490,
+    "game": " Tools Up! ",
+    
+"appid": 1004510,
+    "game": " DownStream : VR Whitewater Kayaking ",
+    
+"appid": 1004550,
+    "game": " Stickman Racer Road Draw 2 ",
+    
+"appid": 1004560,
+    "game": " Everpath: A pixel art roguelite ",
+    
+"appid": 1004570,
+    "game": " blocks ",
+    
+Up",
+      "Casual Gamer",
+      "Stamin
+
+      "Compeititve Gamer",
+      "Speed Runne
+"appid": 1004610,
+    "game": " Roombo: First Blood - JUSTICE SUCKS ",
+    
+"appid": 1004620,
+    "game": " KungFu Kickball ",
+    
+"appid": 1004640,
+    "game": " FINAL FANTASY TACTICS - The Ivalice Chronicles ",
+    
+"appid": 1004750,
+    "game": " WRC 8 FIA World Rally Championship ",
+    
+"appid": 1004770,
+    "game": " Maiden & Spell ",
+    
+"appid": 1004780,
+    "game": " Noel's Hope ",
+    
+"appid": 1004790,
+    "game": " PsyOps Solutions ",
+    
+",
+      "Jordan Rott Games",
+      "Heart of Oi
+"appid": 1004860,
+    "game": " The Secret Order 7: Shadow Breach ",
+    
+"appid": 1005000,
+    "game": " Argonauts Agency: Golden Fleece ",
+    
+"appid": 1005050,
+    "game": " Fabulous - Angela's True Colors ",
+    
+"appid": 1005060,
+    "game": " Fabulous - New York to LA ",
+    
+"appid": 1005120,
+    "game": " Touhou Genso Wanderer -Lotus Labyrinth R- ",
+    
+"appid": 1005130,
+    "game": " Delicious - Emily's Road Trip ",
+    
+"appid": 1005210,
+    "game": " Pixel Puzzles Trivia ",
+    
+"appid": 1005220,
+    "game": " Pixel Puzzles World War II Jigsaws ",
+    
+"appid": 1005230,
+    "game": " Pixel Puzzles Musical ",
+    
+"appid": 1005240,
+    "game": " Pixel Puzzles Illustrations & Anime Jigsaw Puzzles ",
+    
+"appid": 1005250,
+    "game": " Arkane Rush Multiverse Mayhem ",
+    
+"appid": 1005300,
+    "game": " The Jackbox Party Pack 6 ",
+    
+"appid": 1005310,
+    "game": " Snake vs Snake ",
+    
+"appid": 1005400,
+    "game": " Star Drift Evolution ",
+    
+"appid": 1005410,
+    "game": " Freedom Finger ",
+    
+"appid": 1005420,
+    "game": " Mental House ",
+    
+"appid": 1005450,
+    "game": " Vision Soft Reset ",
+    
+"appid": 1005490,
+    "game": " The Deep Diving of  Flood Dragon ",
+    
+"appid": 1005520,
+    "game": " Harem Girl: Alicia ",
+    
+"appid": 1005530,
+    "game": " Club Soccer Director PRO 2020 ",
+    
+ Sheet",
+      "Win League Game",
+      "Have a hom
+te a youth player",
+      "Win 3 Games in a Row",
+      "Hire 
+n a player for more than 1 Million",
+      "Ten Games Unbeaten",
+      "Upg
+a home attendance of 40000 or more",
+      "Win 3 Games in a Row",
+      "Manag
+p Tier",
+      "Fire the manager after losing 10 games in a row.",
+      "Win The Russian Cup"
+"appid": 1005580,
+    "game": " Agricola ",
+    
+"appid": 1005780,
+    "game": " Card Adventures ",
+    
+"Stone chain",
+      "Gamer's pendant",
+      
+"appid": 1005900,
+    "game": " Christmas Time 2019 ",
+    
+"appid": 1005930,
+    "game": " Timeflow ",
+    
+"appid": 1005990,
+    "game": " Swordbreaker: Back to The Castle ",
+    
+"appid": 1006120,
+    "game": " Tetsumo Party ",
+    
+"appid": 1006150,
+    "game": " Urban Justice ",
+    
+"appid": 1006160,
+    "game": " Dungeons of Legend: Cast Within ",
+    
+"appid": 1006170,
+    "game": " 消灭魔王军(Destroy the demon army) ",
+    
+"appid": 1006190,
+    "game": " Colorvore ",
+    
+"appid": 1006220,
+    "game": " Type Knight ",
+    
+"appid": 1006250,
+    "game": " Love in the Limelight ",
+    
+"Semi-Famous",
+      "Game Over",
+      
+"appid": 1006270,
+    "game": " oldbI tyt ? ",
+    
+"appid": 1006390,
+    "game": " PlanZ ",
+    
+"appid": 1006400,
+    "game": " Fantasia of the Wind 2 风之幻想曲 第二部 ",
+    
+"appid": 1006430,
+    "game": " Hectic Highways ",
+    
+"appid": 1006600,
+    "game": " Hentai Octoq Puzzle ",
+    
+"appid": 1006680,
+    "game": " Expanse ",
+    
+"appid": 1006710,
+    "game": " Decent Icons 2 ",
+    
+"appid": 1006720,
+    "game": " PUZZLE: BIRDS ",
+    
+"appid": 1006730,
+    "game": " Cantrip Cafe ",
+    
+"appid": 1006760,
+    "game": " Cyborg Ninja vs. The Third Reich ",
+    
+chievements": [
+      "Game Over",
+      
+"appid": 1006800,
+    "game": " 汉末求生 ",
+    
+"appid": 1006810,
+    "game": " Time Travel VR ",
+    
+"appid": 1006830,
+    "game": " Moonlight thief ",
+    
+"appid": 1006880,
+    "game": " Chocolate makes you happy: Valentine's Day ",
+    
+"appid": 1006920,
+    "game": " Pull Ball ",
+    
+"appid": 1006930,
+    "game": " Hentai Jigsaw Puzzle ",
+    
+"appid": 1007040,
+    "game": " EARTH DEFENSE FORCE 5 ",
+    
+"appid": 1007050,
+    "game": " Dark Hill Museum of Death ",
+    
+"appid": 1007080,
+    "game": " Death Rpg ",
+    
+"appid": 1007140,
+    "game": " Future Aero Racing S Ultra ",
+    
+"appid": 1007180,
+    "game": " Retromancer ",
+    
+"appid": 1007390,
+    "game": " 泠：落日孤行 - Ling ",
+    
+"appid": 1007400,
+    "game": " Alien Shooter 2 - The Legend ",
+    
+"appid": 1007430,
+    "game": " SixCubes ",
+    
+"appid": 1007440,
+    "game": " Solitaire: Learn Chemistry! ",
+    
+eriodic Table 1\" Deck",
+      "Played 1 game of Solitaire (Deal 1)",
+      "Played 2 games of Solitaire (Deal 1)",
+      "Played 3 games of Solitaire (Deal 1)",
+      "Played 4 games of Solitaire (Deal 1)",
+      "Played 5 games of Solitaire (Deal 1)",
+      "Played 6 games of Solitaire (Deal 1)",
+      "Won 1 game of Solitaire (Deal 1)",
+      "Played 7 games of Solitaire (Deal 1)",
+      "Played 8 games of Solitaire (Deal 1)",
+      "Played 9 games of Solitaire (Deal 1)",
+      "Played 10 games of Solitaire (Deal 1)",
+      "Played 1 game of Solitaire (Deal 3)",
+      "Played 2 games of Solitaire (Deal 3)",
+      "Won 2 games of Solitaire (Deal 1)",
+      "Played 3 games of Solitaire (Deal 3)",
+      "Played 15 games of Solitaire (Deal 1)",
+      "Played 20 games of Solitaire (Deal 1)",
+      "Played 4 games of Solitaire (Deal 3)",
+      "Played 5 games of Solitaire (Deal 3)",
+      "Used \"P
+unctional Groups 1\" Deck",
+      "Played 8 games of Solitaire (Deal 3)",
+      "Used \"P
+eriodic Table 3\" Deck",
+      "Played 7 games of Solitaire (Deal 3)",
+      "Played 6 games of Solitaire (Deal 3)",
+      "Won 3 games of Solitaire (Deal 1)",
+      "Used 
+eriodic Table 4\" Deck",
+      "Played 9 games of Solitaire (Deal 3)",
+      "Played 10 games of Solitaire (Deal 3)",
+      "Used \"Alkanes\" Deck",
+      "Won 4 games of Solitaire (Deal 1)",
+      "Used 
+nctional Groups 2\" Deck",
+      "Played 15 games of Solitaire (Deal 3)",
+      "Used \"Fu
+nctional Groups Structures\" Deck",
+      "Played 20 games of Solitaire (Deal 3)",
+      "Won 5 games of Solitaire (Deal 1)",
+      "Won 7 games of Solitaire (Deal 1)",
+      "Won 6 games of Solitaire (Deal 1)",
+      "Won 8 games of Solitaire (Deal 1)",
+      "Won 9 games of Solitaire (Deal 1)",
+      "Won 10 games of Solitaire (Deal 1)",
+      "Won 1 game of Solitaire (Deal 3)",
+      "Won 2 games of Solitaire (Deal 3)",
+      "Won 3 games of Solitaire (Deal 3)",
+      "Won 4 games of Solitaire (Deal 3)",
+      "Won 8 games of Solitaire (Deal 3)",
+      "Won 7 games of Solitaire (Deal 3)",
+      "Won 5 games of Solitaire (Deal 3)",
+      "Won 10 games of Solitaire (Deal 3)",
+      "Won 6 games of Solitaire (Deal 3)",
+      "Won 9 games of Solitaire (Deal 3)"
+    
+"appid": 1007480,
+    "game": " Manipulator of Figure ",
+    
+ments": [
+      "Start Game",
+      "First
+",
+      "1/3 of the game",
+      "Middle Game",
+      "Last S
+"appid": 1007490,
+    "game": " Gladiator: Blades of Fury ",
+    
+"appid": 1007520,
+    "game": " Willy Jetman: Astromonkey's Revenge ",
+    
+"appid": 1007630,
+    "game": " Wraithslayer ",
+    
+"appid": 1007740,
+    "game": " Refight:The Last Warship ",
+    
+"appid": 1007810,
+    "game": " 重明鸟 Bright Bird ",
+    
+"appid": 1007830,
+    "game": " Edgar - Bokbok in Boulzac ",
+    
+"appid": 1007840,
+    "game": " Wanking Simulator ",
+    
+"appid": 1007880,
+    "game": " I am Ball ",
+    
+tton Ball",
+      "Endgame",
+      "20
+"appid": 1007900,
+    "game": " Manipulator of Figure 2 ",
+    
+ments": [
+      "Start Game",
+      "First
+",
+      "1/3 of the game",
+      "Middle Game",
+      "Last S
+"appid": 1007930,
+    "game": " Space Digger ",
+    
+"appid": 1007950,
+    "game": " Birchian Flight Simulator ",
+    
+"appid": 1007970,
+    "game": " This Side ",
+    
+"appid": 1007980,
+    "game": " Santa in search of toys ",
+    
+"appid": 1008010,
+    "game": " Spykebots ",
+    
+"appid": 1008030,
+    "game": " Consolation: Board Meeting - Jam Edition ",
+    
+Policy",
+      "This is in-fact, a Multiplayer game",
+      "Meet Steven"
+n The Code",
+      "Numbers Game",
+      "The Key
+"appid": 1008070,
+    "game": " I See You ",
+    
+"appid": 1008080,
+    "game": " SYNCED ",
+    
+"appid": 1008140,
+    "game": " The Chills ",
+    
+"appid": 1008210,
+    "game": " Harem Girl: Nikki ",
+    
+"appid": 1008280,
+    "game": " 勇者と魔法使いとおとぎの絵本  / Fairy Picturebook of Hero and Sorceress ",
+    
+"appid": 1008290,
+    "game": " Lucky Of Love ",
+    
+"appid": 1008370,
+    "game": " Achievement Collector: Dog ",
+    
+"appid": 1008430,
+    "game": " Alpha Command ",
+    
+"appid": 1008450,
+    "game": " Maze Quest 2: The Desert ",
+    
+"appid": 1008460,
+    "game": " WoW Hentai! ",
+    
+"appid": 1008510,
+    "game": " Who Is This Man ",
+    
+"appid": 1008520,
+    "game": " Mahjong Strip Solitaire: Harem Guild ",
+    
+"appid": 1008530,
+    "game": " Away From Earth: Moon ",
+    
+"appid": 1008600,
+    "game": " Shadowy Contracts ",
+    
+"appid": 1008700,
+    "game": " Golf Pool VR ",
+    
+"appid": 1008710,
+    "game": " Wet Girl ",
+    
+"appid": 1008740,
+    "game": " Cube Mission ",
+    
+"appid": 1008790,
+    "game": " Hentai Jigsaw ",
+    
+"appid": 1008820,
+    "game": " LOTUS Minigames: United Nations ",
+    "achievements": 
+"appid": 1008830,
+    "game": " 孙悟空大战机器金刚 / Sun Wukong VS Robot ",
+    
+"appid": 1008850,
+    "game": " Bounty Hunter ",
+    
+"appid": 1008860,
+    "game": " Repella Fella ",
+    
+"appid": 1008970,
+    "game": " Cavyrn ",
+    
+"appid": 1009030,
+    "game": " Hello Emoji: Drawing to Solve Puzzles ",
+    
+"appid": 1009070,
+    "game": " 没猫病制作人 ",
+    
+"appid": 1009150,
+    "game": " Choconoa ",
+    
+"appid": 1009180,
+    "game": " Block of Rum ",
+    
+"appid": 1009230,
+    "game": " live Mince ",
+    
+"appid": 1009240,
+    "game": " Again ",
+    
+"appid": 1009260,
+    "game": " Grottonnia ",
+    
+"appid": 1009290,
+    "game": " SWORD ART ONLINE Alicization Lycoris ",
+    
+"appid": 1009300,
+    "game": " Achievement Collector: Zombie ",
+    
+"appid": 1009350,
+    "game": " Keepers Dungeon ",
+    
+"Normal mode completed",
+      "Game completed in under one hour",
+      "Complete the game with 0 deaths",
+      "Complete the game with 0 gold spent",
+      "Challenge mode completed",
+      "Complete the game with 0 damage taken"
+    
+"appid": 1009360,
+    "game": " Harold's Walk ",
+    
+"appid": 1009370,
+    "game": " Elephants Can't Jump ",
+    
+"appid": 1009390,
+    "game": " Insanus Express ",
+    
+"appid": 1009450,
+    "game": " Sankaku Renai: Love Triangle Trouble ",
+    
+ Audition",
+      "A Tale of Cosplay and Fighting Games",
+      "Dark Eroge Lord"
+"appid": 1009460,
+    "game": " Hello, Goodbye ",
+    
+ That Place...",
+      "I Don't Need Your Help, Game!",
+      "Mephistopheles' Smile"
+"appid": 1009560,
+    "game": " The Tenants ",
+    
+"appid": 1009590,
+    "game": " Little Lost Robots ",
+    
+"appid": 1009700,
+    "game": " Jewel Match Solitaire L'Amour ",
+    
+"appid": 1009750,
+    "game": " Flappatron ",
+    
+"appid": 1009890,
+    "game": " RHYUP ",
+    
+"appid": 1009920,
+    "game": " Carrier Trail ",
+    
+"appid": 1009950,
+    "game": " Once10 ",
+    
+"appid": 1009960,
+    "game": " Project Hedra ",
+    
+"appid": 1009990,
+    "game": " SCP022 ",
+    
+"appid": 1010040,
+    "game": " Hybrid Minigolf Beta ",
+    
+c Matches",
+      "Win 25 Classic Games",
+      "Get 50 Hole In
+ Ones",
+      "Win 75 Classic Games",
+      "Get 30 Hole In
+In Ones",
+      "Win 100 Race Games",
+      "Win 75 Race Games",
+      "Win 25 Race Games",
+      "Win 100 Parkour Games",
+      "Win 75 Parkour Games",
+      "Win 25 Parkour Games",
+      "Win 100 Classic Games",
+      "Play 100 Parkou
+"appid": 1010070,
+    "game": " Heroes Of Maidan 2 ",
+    
+"appid": 1010150,
+    "game": " PASHTET ",
+    
+"appid": 1010180,
+    "game": " Space Rabbits in Space ",
+    
+"appid": 1010260,
+    "game": " The Coroner Saga ",
+    
+"appid": 1010270,
+    "game": " Nether: The Untold Chapter ",
+    
+"appid": 1010520,
+    "game": " Space Journey ",
+    
+"appid": 1010540,
+    "game": " Ancient Anathema ",
+    
+"appid": 1010600,
+    "game": " The Princess, the Stray Cat, and Matters of the Heart ",
+    
+"appid": 1010750,
+    "game": " Blood: Fresh Supply ",
+    
+"appid": 1010830,
+    "game": " Mech Chip ",
+    
+"appid": 1010850,
+    "game": " 東方翠神廻廊 〜 Faith in the Goddess of Suwa. ",
+    
+"appid": 1010870,
+    "game": " The Last 47 Hours ",
+    
+"appid": 1010890,
+    "game": " Touhou Fantasia ",
+    
+"appid": 1010950,
+    "game": " SmartyTale 2D ",
+    
+"appid": 1011030,
+    "game": " HENTAI MINESWEEPER BEST ",
+    
+evements": [
+      "the first entry in game",
+      "1"
+"appid": 1011070,
+    "game": " Nomads of the Fallen Star ",
+    
+"appid": 1011090,
+    "game": " ANDROMALIUS ",
+    
+"appid": 1011130,
+    "game": " Life is Pointless ",
+    
+"appid": 1011190,
+    "game": " SIMULACRA 2 ",
+    
+"appid": 1011230,
+    "game": " 高考工厂模拟(Crazy School Simulator) ",
+    
+"appid": 1011240,
+    "game": " Dragon Chase ",
+    
+"appid": 1011290,
+    "game": " Hotel R'n'R ",
+    
+"appid": 1011310,
+    "game": " PARSE ALLY ",
+    
+"appid": 1011320,
+    "game": " Whiskey & Zombies ",
+    
+"appid": 1011390,
+    "game": " Field of Glory: Empires ",
+    
+oss the ocean",
+      "Player of games",
+      "When the 
+"appid": 1011420,
+    "game": " Bus Mechanic Simulator ",
+    
+"appid": 1011510,
+    "game": " Wizard And Minion Idle ",
+    
+"appid": 1011550,
+    "game": " Light The Way ",
+    
+"appid": 1011590,
+    "game": " Night is Coming ",
+    
+"appid": 1011610,
+    "game": " Radio General ",
+    
+"appid": 1011620,
+    "game": " Electric Sleep ",
+    
+"appid": 1011630,
+    "game": " Border Force ",
+    
+"appid": 1011670,
+    "game": " Totally Reliable Delivery Service ",
+    
+"appid": 1011700,
+    "game": " Walden, a game ",
+    "achievements": 
+"appid": 1011740,
+    "game": " DOZA 2 - NOVOGODNIY PEREDOZ ",
+    
+"appid": 1011830,
+    "game": " Rocwood Academy ",
+    
+"appid": 1012110,
+    "game": " Military Conflict: Vietnam ",
+    
+"appid": 1012120,
+    "game": " The Great Mushroom Hunt ",
+    
+"appid": 1012140,
+    "game": " Ellie ",
+    
+"appid": 1012160,
+    "game": " SkyGameChanger-AirCombat II- ",
+    "achievements": [
+      "SkyGameChanger-AirCombat II- Level 1 completed",
+      "SkyGameChanger-AirCombat II- Level 2 completed",
+      "SkyGameChanger-AirCombat II- Level 5 completed",
+      "SkyGameChanger-AirCombat II- Level 3 completed",
+      "SkyGameChanger-AirCombat II- Level 4 completed",
+      "SkyGameChanger-AirCombat II- Secret Level completed",
+      "SkyGameChanger-AirCombat II- Extra 3 Level completed",
+      "SkyGameChanger-AirCombat II- Level 9 completed"
+    
+"appid": 1012330,
+    "game": " Umichan Sorani ",
+    
+"appid": 1012360,
+    "game": " Gunslugs:Rogue Tactics ",
+    
+"appid": 1012460,
+    "game": " Through Abandoned: The Refuge ",
+    
+"appid": 1012530,
+    "game": " Soccering ",
+    
+"appid": 1012560,
+    "game": " Snakeybus ",
+    
+"appid": 1012570,
+    "game": " Knuckle Sandwich ",
+    
+"appid": 1012580,
+    "game": " Triumph in the Skies ",
+    
+"appid": 1012600,
+    "game": " Why Chicken? Why? ",
+    
+amily!",
+      "A Game About a Frog?",
+      "C
+"appid": 1012630,
+    "game": " Epido ",
+    
+"appid": 1012650,
+    "game": " Galactic Tower Defense ",
+    
+chievements": [
+      "GAME ON!",
+      
+"appid": 1012670,
+    "game": " Gnubbl ",
+    
+"appid": 1012790,
+    "game": " Into the Radius VR ",
+    
+"appid": 1012820,
+    "game": " Voxel Drivers ",
+    
+"appid": 1012840,
+    "game": " Moons of Madness ",
+    
+"appid": 1012850,
+    "game": " ANDERSON ",
+    
+"appid": 1012860,
+    "game": " Data mining 5 ",
+    
+"appid": 1012880,
+    "game": " 60 Seconds! Reatomized ",
+    
+"appid": 1012900,
+    "game": " Deviant Dungeon ",
+    
+"appid": 1012970,
+    "game": " Extricate ",
+    
+tion E",
+      "Beat The Game",
+      "10 Dev M
+"appid": 1013000,
+    "game": " Kingdom-Heroes ",
+    
+"appid": 1013040,
+    "game": " Planetoid Pioneers Online ",
+    
+"appid": 1013070,
+    "game": " Estellium Legends ",
+    
+"appid": 1013100,
+    "game": " Mage ",
+    
+"appid": 1013130,
+    "game": " Happy Anime Puzzle ",
+    
+"appid": 1013140,
+    "game": " Outcast - A New Beginning ",
+    
+"appid": 1013200,
+    "game": " True Colors ",
+    
+"appid": 1013220,
+    "game": " River City Saga: Three Kingdoms ",
+    
+"appid": 1013280,
+    "game": " Ragtag ",
+    
+"appid": 1013290,
+    "game": " Beat Your Meat ",
+    
+"appid": 1013310,
+    "game": " Peaky Blinders: Mastermind ",
+    
+"appid": 1013320,
+    "game": " Firestone - Online Idle RPG ",
+    
+endary",
+      "The game is on",
+      "Sai
+"appid": 1013450,
+    "game": " Triton Survival ",
+    
+"appid": 1013540,
+    "game": " Evospace ",
+    
+"appid": 1013580,
+    "game": " Manna for our Malices ",
+    
+"appid": 1013600,
+    "game": " Rodent Warriors ",
+    
+"appid": 1013650,
+    "game": " Tiny Dangerous Dungeons ",
+    
+"appid": 1013660,
+    "game": " Pursuer ",
+    
+"appid": 1013670,
+    "game": " Mr Boom's Firework Factory ",
+    
+"appid": 1013730,
+    "game": " Hard Core Puzzle ",
+    
+"appid": 1013750,
+    "game": " Legal Dungeon ",
+    
+"appid": 1013790,
+    "game": " TheVeryHardPuzzleGame&Editor ",
+    "achievements": 
+"appid": 1013810,
+    "game": " The Legendary Assassin KAL ",
+    
+"appid": 1013820,
+    "game": " Stars and Snowdrops ",
+    
+"appid": 1013890,
+    "game": " 青蛙跳模拟器 ",
+    
+"appid": 1013910,
+    "game": " Aron's Adventure ",
+    
+"appid": 1013940,
+    "game": " Bob and Kuura: Lost in Snowglobe ",
+    
+"appid": 1014020,
+    "game": " Successor of the Moon ",
+    
+"appid": 1014040,
+    "game": " PictoQuest ",
+    
+"appid": 1014050,
+    "game": " Hockey Manager 20|20 ",
+    
+l coaching legend",
+      "Bread and games",
+      "Expert"
+"appid": 1014110,
+    "game": " Fish Simulator: Aquarium Manager ",
+    
+"appid": 1014130,
+    "game": " Jitsumi's Game Booster ",
+    "achievements": 
+"appid": 1014140,
+    "game": " Snakebird Primer ",
+    
+"appid": 1014260,
+    "game": " Passageway of the Ancients ",
+    
+"appid": 1014270,
+    "game": " Plaguepunk Justice ",
+    
+"appid": 1014360,
+    "game": " Adventures Diary of Merchant ",
+    
+"appid": 1014420,
+    "game": " Blind Date ",
+    
+"appid": 1014440,
+    "game": " Mola mola: Vivienne ",
+    
+"appid": 1014470,
+    "game": " F8S ",
+    
+"appid": 1014480,
+    "game": " Ecchi Girls ",
+    
+"appid": 1014560,
+    "game": " Creepy Vision ",
+    
+"appid": 1014580,
+    "game": " RB: Axolotl ",
+    
+"appid": 1014590,
+    "game": " Time To Parkour ",
+    
+"appid": 1014660,
+    "game": " Baby Bee ",
+    
+  "City cleared",
+      "Game master!"
+    
+"appid": 1014710,
+    "game": " sCATter ",
+    
+
+      "Did you play a game?",
+      "myriad of hand
+"appid": 1014730,
+    "game": " Cyndy ",
+    
+ng of it",
+      "Anne is in the game!",
+      "Ready to serve
+"appid": 1014750,
+    "game": " Dupli_City ",
+    
+"appid": 1014790,
+    "game": " Bewildebots ",
+    
+"appid": 1014810,
+    "game": " Happy Words ",
+    
+ of 30+ points",
+      "Win in online game",
+      "Scored a word
+e tile rack to make a word",
+      "Win in 3 solo games in a row vs robots",
+      "Win in 3 online games in a row",
+      "Win 10 solo games vs robot(s)",
+      "Win in 10 solo games in a row vs robots",
+      "Scored a word 
+points",
+      "Win in 4 players solo game against robots",
+      "Win in 4 players online game",
+      "Win in 4 players solo game in 20 minutes",
+      "Win 30 solo games against robots",
+      "Win 10 online games in a row",
+      "Scored a word
+ 100+ points",
+      "Win in 20 online games",
+      "Scored a word of
+oints",
+      "Win in 4 players online game in 20 minutes",
+      "Win in 50 online games",
+      "Win in 4 players online game in 10 minutes",
+      "Win in 100 online games",
+      "Win in online game finishing with over 1000 points"
+    
+"appid": 1014840,
+    "game": " Heart and Axe ",
+    
+"appid": 1014850,
+    "game": " Iridium ",
+    
+"appid": 1014900,
+    "game": " Hex Defense - VR ",
+    
+"appid": 1014940,
+    "game": " Nehrim: At Fate's Edge ",
+    
+"Soul Catcher",
+      "Game of Towers",
+      
+"appid": 1015020,
+    "game": " 记忆重构/Memories ",
+    
+"appid": 1015080,
+    "game": " Vampiros & Monstruos - Buscando Objetos Ocultos Juegos en Español ",
+    
+"appid": 1015090,
+    "game": " Last Day of Rome ",
+    
+"appid": 1015100,
+    "game": " Sloth: Heart to Heart ",
+    
+"appid": 1015120,
+    "game": " Heroes of the Earth: inVasion ",
+    
+"appid": 1015130,
+    "game": " Wounded - The Beginning ",
+    
+"appid": 1015140,
+    "game": " 10 Miles To Safety ",
+    
+"appid": 1015180,
+    "game": " Malicious Payload ",
+    
+"appid": 1015190,
+    "game": " Double Damnation ",
+    
+"appid": 1015290,
+    "game": " Trapped in Fear ",
+    
+ll out of you",
+      "Let’s play a game",
+      "First checkp
+"appid": 1015350,
+    "game": " Your Home ",
+    
+"appid": 1015430,
+    "game": " The Dead Tree of Ranchiuna ",
+    
+"appid": 1015480,
+    "game": " DrumBeats VR ",
+    
+"appid": 1015500,
+    "game": " WWE 2K20 ",
+    
+acerse el muerto",
+      "Págame",
+      "I
+"appid": 1015510,
+    "game": " Dr. Tanya`s Experiment ",
+    
+"appid": 1015620,
+    "game": " Hentai Sweet Battle ",
+    
+"appid": 1015700,
+    "game": " Land Of The Void ",
+    
+"appid": 1015790,
+    "game": " Dark Hero Party ",
+    
+"appid": 1015890,
+    "game": " TASOMACHI: Behind the Twilight ",
+    
+"appid": 1015920,
+    "game": " Ynglet ",
+    
+"appid": 1015940,
+    "game": " Welcome to Elk ",
+    
+"appid": 1016000,
+    "game": " Nerve ",
+    
+"appid": 1016010,
+    "game": " W4RR-i/o-RS: Descent ",
+    
+"appid": 1016020,
+    "game": " Gladiators: Ludus Manager ",
+    
+  "Rome!",
+      "Beat the Game!"
+    
+"appid": 1016060,
+    "game": " Foto Babes ",
+    
+"appid": 1016100,
+    "game": " 3rd Invasion - Zombies vs. Steel ",
+    
+s": [
+      "Start The Game",
+      "First Zom
+"appid": 1016110,
+    "game": " Self-Reliance 自我性赖 ",
+    
+"appid": 1016120,
+    "game": " PGA TOUR 2K21 ",
+    
+"appid": 1016180,
+    "game": " Terror of Hemasaurus ",
+    
+"appid": 1016250,
+    "game": " 100$ ",
+    
+"appid": 1016350,
+    "game": " Land of Dread ",
+    
+"appid": 1016360,
+    "game": " PERISH ",
+    
+"appid": 1016420,
+    "game": " Tenebrous Dungeon ",
+    
+"appid": 1016430,
+    "game": " Tokyo Snap ",
+    
+"appid": 1016600,
+    "game": " Devil Slayer - Raksasi / 斩妖Raksasi ",
+    
+"appid": 1016610,
+    "game": " Four-color Fantasy ",
+    
+"appid": 1016630,
+    "game": " Drag Star! ",
+    
+"appid": 1016690,
+    "game": " DUST-UP ",
+    
+"appid": 1016720,
+    "game": " Save Koch ",
+    
+"appid": 1016730,
+    "game": " Deck of Ashes ",
+    
+"appid": 1016760,
+    "game": " Citizens of Space ",
+    
+"appid": 1016770,
+    "game": " Interrogation: You will be deceived ",
+    
+"appid": 1016790,
+    "game": " West of Dead ",
+    
+"appid": 1016800,
+    "game": " Chernobylite Complete Edition ",
+    
+"appid": 1016920,
+    "game": " Unrailed! ",
+    
+"appid": 1016930,
+    "game": " The Great Perhaps ",
+    
+"appid": 1016940,
+    "game": " The Otterman Empire ",
+    
+"appid": 1016950,
+    "game": " Blood Bowl 3 ",
+    
+"appid": 1016960,
+    "game": " Super Neptunia RPG ",
+    
+"appid": 1016980,
+    "game": " Pirates of the Asteroid Belt ",
+    
+"appid": 1017100,
+    "game": " Territory Idle ",
+    
+"appid": 1017160,
+    "game": " Gearshifters ",
+    
+"appid": 1017270,
+    "game": " TRIDENT BARRAGE ",
+    
+"appid": 1017340,
+    "game": " FitnessVR ",
+    
+"appid": 1017350,
+    "game": " aMAZE St.Patrick ",
+    
+"appid": 1017520,
+    "game": " WWTSTB: Teacher ",
+    
+"appid": 1017580,
+    "game": " The explorer of night ",
+    
+ypnosis",
+      "Complete the game",
+      "Secret endin
+"appid": 1017590,
+    "game": " Slime Adventure ",
+    
+"appid": 1017610,
+    "game": " Butterfly ",
+    
+"appid": 1017630,
+    "game": " Robot King Part 2: Boss Battles ",
+    
+"appid": 1017650,
+    "game": " It's a Long Way To the Top (If You Wanna Be a CEO) ",
+    
+"appid": 1017750,
+    "game": " Jump Doper ",
+    
+"appid": 1017800,
+    "game": " AirShock ",
+    
+"appid": 1017820,
+    "game": " Cybershift ",
+    
+"appid": 1017860,
+    "game": " Hentai Time ",
+    
+"appid": 1017900,
+    "game": " Age of Empires: Definitive Edition ",
+    
+"appid": 1017940,
+    "game": " King of Texas ",
+    
+"appid": 1018000,
+    "game": " Arcade Classics Anniversary Collection ",
+    
+"appid": 1018010,
+    "game": " Castlevania Anniversary Collection ",
+    
+"appid": 1018020,
+    "game": " Contra Anniversary Collection ",
+    
+"appid": 1018130,
+    "game": " Castle Break ",
+    
+"appid": 1018160,
+    "game": " MXGP 2019 - The Official Motocross Videogame ",
+    "achievements": 
+"appid": 1018170,
+    "game": " Dawn of the Lost Castle ",
+    
+"appid": 1018240,
+    "game": " Hooklings ",
+    
+"appid": 1018270,
+    "game": " Anthropomachy ",
+    
+"appid": 1018420,
+    "game": " uuu so smislom ",
+    
+"appid": 1018700,
+    "game": " Kabitis 2: Fire Sword ",
+    
+s": [
+      "Started The Game",
+      "Pedaduck"
+  "Treasure Hunter",
+      "Finished The Game"
+    
+"appid": 1018720,
+    "game": " X-POINT ",
+    
+"appid": 1018800,
+    "game": " DEEEER Simulator Tu juego de ciervos cotidiano estándar ",
+    
+"appid": 1018810,
+    "game": " Drumpfy Walls ",
+    
+"appid": 1018820,
+    "game": " Fleet Scrapper ",
+    
+"appid": 1018830,
+    "game": " Element TD 2 ",
+    
+"appid": 1018850,
+    "game": " Smile For Me ",
+    
+"appid": 1018860,
+    "game": " Bombing Quest ",
+    
+"appid": 1018900,
+    "game": " ¡Aprendamos Japonés! Katakana ",
+    
+"appid": 1018950,
+    "game": " What The Fork ",
+    
+"appid": 1018960,
+    "game": " Thugs Law ",
+    
+"appid": 1018980,
+    "game": " VKT Prime System Crash ",
+    
+"appid": 1019050,
+    "game": " Primal Threat ",
+    
+"appid": 1019060,
+    "game": " 5.84 Wing ",
+    
+"appid": 1019070,
+    "game": " Soft cookie ",
+    
+"appid": 1019150,
+    "game": " Apolune ",
+    
+ Card",
+      "Space Game Junkie",
+      "Spaz 
+s Adventures",
+      "Ender's Game",
+      "Apolune
+"appid": 1019190,
+    "game": " Urizen Frosty Plus The New Warriors ",
+    
+"YOU BEAT THE DARK OGRE!",
+      "GAME START",
+      
+!!",
+      "YOU BEAT FIFTY PERCENT OF THE GAME!!!",
+      "YOU BEAT THE RIDER!"
+ GUARDIAN!",
+      "YOU BEAT THE GAME!!!",
+      "YOU BEAT DRA
+"appid": 1019240,
+    "game": " Nippon Ecchi Jigsaw ",
+    
+"appid": 1019250,
+    "game": " WWII TCG - World War 2: The Card Game ",
+    "achievements": 
+"appid": 1019310,
+    "game": " VirtuaVerse ",
+    
+"appid": 1019340,
+    "game": " 7776 II: Dwarven Greed ",
+    
+"appid": 1019370,
+    "game": " Radioactive ",
+    
+"appid": 1019400,
+    "game": " BeatShips ",
+    
+"appid": 1019420,
+    "game": " Horny Girl ",
+    
+"appid": 1019450,
+    "game": " Table Manners ",
+    
+"appid": 1019550,
+    "game": " Thief Simulator VR ",
+    
+ee man",
+      "Console gamer",
+      "Art con
+"appid": 1019590,
+    "game": " Lovely Planet 2: April Skies ",
+    
+"appid": 1019630,
+    "game": " ECCHI NEKO GIRLS PUZZLE ",
+    
+"appid": 1019730,
+    "game": " Chipmonk! ",
+    
+"appid": 1019790,
+    "game": " Supernatural Super Squad Fight! ",
+    
+chievements": [
+      "Game Controls Learned!",
+      
+"appid": 1019820,
+    "game": " Galaxicus ",
+    
+"appid": 1019910,
+    "game": " Cube Man ",
+    
+"appid": 1019920,
+    "game": " Gensokyo Defenders ",
+    
+"appid": 1020030,
+    "game": " Quantum Suicide ",
+    
+d it for love!",
+      "This game is to die for.",
+      "This game is to Dai for.",
+      "One 
+plus Two is Me?",
+      "Even Game Developers Have Friends.",
+      "It w
+"appid": 1020050,
+    "game": " Startup Valley Adventure - Episode 1 ",
+    
+"appid": 1020090,
+    "game": " Overcome ",
+    
+"appid": 1020270,
+    "game": " Demon Hunter 5: Ascendance ",
+    
+"appid": 1020310,
+    "game": " Gravity Heroes ",
+    
+"appid": 1020330,
+    "game": " Khan VS Kahn ",
+    
+"appid": 1020340,
+    "game": " AUDICA: Rhythm Shooter ",
+    
+"appid": 1020390,
+    "game": " Beat Blaster ",
+    
+"appid": 1020410,
+    "game": " Narco Strike ",
+    
+"appid": 1020440,
+    "game": " Doodle Creatures ",
+    
+"appid": 1020450,
+    "game": " There Will Be Ink ",
+    
+",
+      "Ahead in the Game",
+      "Crushing Los
+"appid": 1020470,
+    "game": " Evoland Legendary Edition ",
+    
+hed",
+      "Video Games Hall of Fame",
+      "Lost 
+"appid": 1020490,
+    "game": " Woman's body 2 ",
+    
+"appid": 1020540,
+    "game": " CONTRA: ROGUE CORPS ",
+    
+"appid": 1020550,
+    "game": " CHROMA+ELEKTRON ",
+    
+"Stage 13 100% Performance",
+      "Game Clear",
+      
+"appid": 1020590,
+    "game": " Space Pilgrim Academy: Reunion ",
+    
+hower",
+      "Worst Game Ever!",
+      "Fathe
+"appid": 1020610,
+    "game": " Apoapsis ",
+    
+"appid": 1020640,
+    "game": " R.I.C.A ",
+    
+"appid": 1020650,
+    "game": " Commando Fodder: War Dogs ",
+    
+"appid": 1020730,
+    "game": " Dark Bestiary ",
+    
+"appid": 1020780,
+    "game": " DarkStory Online ",
+    
+"appid": 1020790,
+    "game": " NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS ",
+    
+"appid": 1020800,
+    "game": " CAR TUNE: Project ",
+    
+"appid": 1020820,
+    "game": " KumaKuma Manga Editor ",
+    
+"appid": 1020830,
+    "game": " Something is wrong/有毛病 ",
+    
+"appid": 1020840,
+    "game": " 豆腐脑模拟器 Tofu Pudding Simulator ",
+    
+"appid": 1020910,
+    "game": " Sefirot Shards ",
+    
+"appid": 1020940,
+    "game": " Owyn's Adventure ",
+    
+"appid": 1020980,
+    "game": " Match Three Pirates! Heir to Davy Jones ",
+    
+"appid": 1021060,
+    "game": " Brix VR ",
+    
+"appid": 1021070,
+    "game": " Spaceland ",
+    
+"appid": 1021100,
+    "game": " Aircraft Carrier Survival ",
+    
+"appid": 1021120,
+    "game": " PraeBot ",
+    
+"appid": 1021210,
+    "game": " Cyber Knights: Flashpoint ",
+    
+bersword",
+      "Out of the Game",
+      "Master Bui
+"appid": 1021220,
+    "game": " The seven deadly seas ",
+    
+"appid": 1021260,
+    "game": " Chocolate makes you happy: St.Patrick's Day ",
+    
+"appid": 1021290,
+    "game": " CubeRace ",
+    
+"appid": 1021370,
+    "game": " Slave RPG ",
+    
+
+      "Luck Isn't A Stat In This Game",
+      "Lower The Gates!"
+
+      "Just Like My Japanese Horror Games!",
+      "You Call That Difficult"
+"appid": 1021640,
+    "game": " Fold ",
+    
+"Gone With The Wind completed",
+      "Game completed.",
+      
+"appid": 1021670,
+    "game": " 机退怪兽 ",
+    
+"appid": 1021690,
+    "game": " Game Studio Simulator ",
+    "achievements": 
+"appid": 1021700,
+    "game": " Little Reds Forest Fun ",
+    
+"appid": 1021800,
+    "game": " 妙连千军 Million Dungeon ",
+    
+
+      "Hang up the game",
+      "On hold"
+"appid": 1021820,
+    "game": " Dumb test: Check your teammates ",
+    
+"appid": 1021840,
+    "game": " Asteroid Hideout ",
+    
+"appid": 1021850,
+    "game": " Blood Memery ",
+    
+"appid": 1021860,
+    "game": " Unravel Cyndy ",
+    
+  "All done!",
+      "Perfect Game"
+    
+"appid": 1021890,
+    "game": " Hero Swing VR ",
+    
+"appid": 1021940,
+    "game": " Space Warfare ",
+    
+"appid": 1021950,
+    "game": " When the Darkness comes ",
+    
+"appid": 1022010,
+    "game": " Oliver's Adventures in the Fairyland ",
+    
+"appid": 1022130,
+    "game": " CLASH! - Battle Arena ",
+    
+"appid": 1022150,
+    "game": " Bios Ex ",
+    
+"appid": 1022160,
+    "game": " Rollossus ",
+    
+"appid": 1022180,
+    "game": " And I Must Scream ",
+    
+"appid": 1022270,
+    "game": " Cartacombs ",
+    
+"appid": 1022280,
+    "game": " CosPuzzle ",
+    
+evel 14",
+      "Finish the game",
+      "Finish the game",
+      "Complete l
+evel 16",
+      "Finish the game",
+      "Finish the game"
+    
+"appid": 1022310,
+    "game": " Warhammer Underworlds - Shadespire Edition ",
+    
+"appid": 1022370,
+    "game": " CupGuess ",
+    
+"appid": 1022380,
+    "game": " Neon Slashers ",
+    
+"appid": 1022480,
+    "game": " KAMIKO ",
+    
+"appid": 1022530,
+    "game": " SUBARACITY ",
+    
+"appid": 1022630,
+    "game": " Tankorama ",
+    
+"appid": 1022650,
+    "game": " LeonWaan MineSweeper ",
+    
+"appid": 1022710,
+    "game": " Conglomerate 451 ",
+    
+"appid": 1022770,
+    "game": " Beyond Enemy Lines: Operation Arctic Hawk ",
+    
+"appid": 1022780,
+    "game": " Animal Fight Club ",
+    
+"appid": 1022860,
+    "game": " Tuber`s Run ",
+    
+"appid": 1022870,
+    "game": " Luminos ",
+    
+"appid": 1023010,
+    "game": " Escargot ",
+    
+"appid": 1023020,
+    "game": " Slime Crunch ",
+    
+"appid": 1023040,
+    "game": " Hockey Camp - Goaltender ",
+    
+"appid": 1023130,
+    "game": " Defection ",
+    
+"appid": 1023140,
+    "game": " Artificiality-人造物- ",
+    
+"appid": 1023260,
+    "game": " Yuki's Tale ",
+    
+"appid": 1023310,
+    "game": " Logical Now! ",
+    
+n life and play",
+      "Wow, what a game! Get I a new pc-mouse for the points?",
+      "Survivor",
+      "A really quiet game - Is'n it?"
+    
+"appid": 1023370,
+    "game": " HENTAI SUPER GIRL ",
+    
+"appid": 1023390,
+    "game": " People ",
+    
+"appid": 1023510,
+    "game": " Matanga ",
+    
+"appid": 1023520,
+    "game": " SEXUAL MANGA ANIME BALLS 2 spermination ",
+    
+"appid": 1023550,
+    "game": " Rogue Star Rescue ",
+    
+"appid": 1023570,
+    "game": " PUZZLE: ANIMALS ",
+    
+"appid": 1023680,
+    "game": " Brass Town Wrestling ",
+    
+"appid": 1023690,
+    "game": " Nurse Love Syndrome ",
+    
+"appid": 1023740,
+    "game": " 7 Sexy Sins ",
+    
+"appid": 1023790,
+    "game": " Rick Henderson ",
+    
+"appid": 1023860,
+    "game": " GORSD ",
+    
+"appid": 1023870,
+    "game": " Northern Lights ",
+    
+"appid": 1023970,
+    "game": " Gun Gun Pixies ",
+    
+"appid": 1024010,
+    "game": " Ultimate Fishing Simulator VR ",
+    
+"appid": 1024070,
+    "game": " Ribbon Racer Next ",
+    
+"appid": 1024100,
+    "game": " Adventures of Isabelle Fine: Murder on Rails ",
+    
+"appid": 1024120,
+    "game": " Túatha Echoes: The Village ",
+    
+"appid": 1024150,
+    "game": " Valentines Cafe ",
+    
+evels!",
+      "Complete half the game!",
+      "Finish the game!"
+    
+"appid": 1024160,
+    "game": " Lord Winklebottom Investigates ",
+    
+"appid": 1024210,
+    "game": " Leowald ",
+    
+"appid": 1024220,
+    "game": " Death Waves ",
+    
+"appid": 1024280,
+    "game": " The Cradle of Ruin ",
+    
+"appid": 1024380,
+    "game": " Second Extinction™ ",
+    
+"appid": 1024400,
+    "game": " Marenian Tavern Story: Patty and the Hungry God ",
+    
+"appid": 1024440,
+    "game": " 兔耳冒險譚 ",
+    
+"appid": 1024480,
+    "game": " Immortal Realms: Vampire Wars ",
+    
+"appid": 1024490,
+    "game": " Super Jigsaw Puzzle: Anime Reloaded ",
+    
+"appid": 1024500,
+    "game": " Boobs 'em up ",
+    
+"appid": 1024570,
+    "game": " Hentai Babes - In Public ",
+    
+"appid": 1024590,
+    "game": " Hentai Babes - Sport Lovers ",
+    
+"appid": 1024650,
+    "game": " Port Royale 4 ",
+    
+"appid": 1024670,
+    "game": " Ruination ",
+    
+"appid": 1024690,
+    "game": " Chaos Village ",
+    
+"appid": 1024720,
+    "game": " Pagans Must Die ",
+    
+"appid": 1024730,
+    "game": " Murder Machine Mini ",
+    
+"appid": 1024790,
+    "game": " Kare wa Kanojo ",
+    
+"appid": 1024800,
+    "game": " Femdom Waifu ",
+    
+"appid": 1024890,
+    "game": " Sector's Edge ",
+    
+"appid": 1024950,
+    "game": " Starship Horizons Bridge Simulator ",
+    
+"appid": 1025000,
+    "game": " Edge of Galaxy ",
+    
+"appid": 1025050,
+    "game": " Figure Quest ",
+    
+"appid": 1025130,
+    "game": " Oik Memory 3 ",
+    
+"appid": 1025140,
+    "game": " LAMUNATION! -international- ",
+    
+"appid": 1025160,
+    "game": " Xander the Monster Morpher: Universe Breaker ",
+    
+"appid": 1025200,
+    "game": " The Floor Is Really Cheap Lava ",
+    
+"appid": 1025240,
+    "game": " GLAD VALAKAS TOWER DEFENCE 2 ",
+    
+"appid": 1025410,
+    "game": " Metamorphosis ",
+    
+"appid": 1025430,
+    "game": " Delta Squad ",
+    
+"appid": 1025440,
+    "game": " Fantasy General II ",
+    
+"appid": 1025460,
+    "game": " Rift Racoon ",
+    
+"appid": 1025480,
+    "game": " 1-Bit Revival: The Residuals of Null ",
+    
+"appid": 1025890,
+    "game": " Other Submarine ",
+    
+"appid": 1025900,
+    "game": " Battle Balls ",
+    
+"appid": 1025920,
+    "game": " Manipulator of Figure 3 ",
+    
+ments": [
+      "Start Game",
+      "First
+",
+      "1/3 of the game",
+      "Middle Game",
+      "Last S
+"appid": 1025960,
+    "game": " BURIED STARS ",
+    
+"appid": 1026030,
+    "game": " Pew Pew Rocket ",
+    
+"appid": 1026070,
+    "game": " 12 Labours of Hercules IX: A Hero's Moonwalk ",
+    
+"appid": 1026080,
+    "game": " The Antidote ",
+    
+  "OUCH!",
+      "No save game"
+    
+"appid": 1026110,
+    "game": " Racing Classics: Drag Race Simulator ",
+    
+"appid": 1026130,
+    "game": " STAB STAB STAB! ",
+    
+"appid": 1026160,
+    "game": " Misadventures of Laura Silver ",
+    
+"appid": 1026190,
+    "game": " Jambo's Adventure ",
+    
+"appid": 1026200,
+    "game": " Hentai Loli 3D ",
+    
+"appid": 1026210,
+    "game": " BAD BILLY 2D VR ",
+    
+"appid": 1026390,
+    "game": " Magic Heart ",
+    
+"appid": 1026400,
+    "game": " Tamashii ",
+    
+"appid": 1026420,
+    "game": " WARSAW ",
+    
+ Doctor",
+      "Big Game Hunter",
+      "The
