@@ -46,18 +46,16 @@ def insertar_en_sql(jsonl_file):
                 
                 cursor.execute("""
                     INSERT INTO juegos (
-                        appid, game, metacritic, steam_name, price,
+                        appid, game, metacritic,
                         genre, platforms, positive, release_date
                     ) VALUES (
-                        %(appid)s, %(game)s, %(metacritic)s, %(steam_name)s,
-                        %(price)s, %(genre)s, %(platforms)s, %(positive)s,
+                        %(appid)s, %(game)s, %(metacritic)s,
+                        %(genre)s, %(platforms)s, %(positive)s,
                         %(release_date)s
                     )
                     ON CONFLICT (appid) DO UPDATE SET
                         game = EXCLUDED.game,
                         metacritic = EXCLUDED.metacritic,
-                        steam_name = EXCLUDED.steam_name,
-                        price = EXCLUDED.price,
                         genre = EXCLUDED.genre,
                         platforms = EXCLUDED.platforms,
                         positive = EXCLUDED.positive,
