@@ -10,10 +10,10 @@ from bs4 import BeautifulSoup
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s: %(message)s")
 
 API_KEY = None  # opcional: tu Steam API key (si la tienes)
-OUTPUT_FILE = "achievements.json"
+OUTPUT_FILE = "appid2.json"
 SLEEP_BETWEEN = (1.5, 3.0)  # pausa aleatoria entre peticiones
 SAVE_EVERY = 5               # guarda el JSON cada N appids
-START_APPID = 1000000        # valor inicial si no hay archivo previo
+START_APPID = 1        # valor inicial si no hay archivo previo
 MAX_RETRIES = 4
 BACKOFF_FACTOR = 2.0
 

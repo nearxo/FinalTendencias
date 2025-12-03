@@ -80,6 +80,6 @@ def insertar_en_sql(jsonl_file):
 # EJECUCIÓN
 # ---------------------------
 if __name__ == "__main__":
-    insertar_en_sql("juegos_final.jsonl")
+    insertar_en_sql("juegos_final112820025.jsonl")
     cursor.close()
     conexion.close()
