@@ -46,20 +46,20 @@ def insertar_en_sql(jsonl_file):
                 
                 cursor.execute("""
                     INSERT INTO juegos (
-                        appid, game, metacritic,
-                        genre, platforms, positive, release_date
+                        appid, nombre, metacritic,
+                        generos, plataformas, reseñas_positivas, fecha_salida
                     ) VALUES (
                         %(appid)s, %(game)s, %(metacritic)s,
                         %(genre)s, %(platforms)s, %(positive)s,
                         %(release_date)s
                     )
                     ON CONFLICT (appid) DO UPDATE SET
-                        game = EXCLUDED.game,
+                        nombre = EXCLUDED.nombre,
                         metacritic = EXCLUDED.metacritic,
-                        genre = EXCLUDED.genre,
-                        platforms = EXCLUDED.platforms,
-                        positive = EXCLUDED.positive,
-                        release_date = EXCLUDED.release_date;
+                        generos = EXCLUDED.generos,
+                        plataformas = EXCLUDED.plataformas,
+                        reseñas_positivas = EXCLUDED.reseñas_positivas,
+                        fecha_salida = EXCLUDED.fecha_salida;
                 """, juego)
                 
                 contador += 1
@@ -78,6 +78,6 @@ def insertar_en_sql(jsonl_file):
 # EJECUCIÓN
 # ---------------------------
 if __name__ == "__main__":
-    insertar_en_sql("juegos_final112820025.jsonl")
+    insertar_en_sql("3.juegos_importantes.jsonl")
     cursor.close()
     conexion.close()
